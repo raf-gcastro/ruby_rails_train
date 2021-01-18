@@ -1,0 +1,18 @@
+- Rails:
+  - Models are resources in the app like:
+    - User
+    - Post
+    - Article
+    - Stock
+  - Views are the front-end of the app:
+    - home view: home.html.erb
+    - new post view: new.html.erb
+    - friends view: friends.html.erb
+    - my_portfolio view: my_porfolio.html.erb
+  - Controller are the brains behind the application:
+    - users_controller
+    - post_controller
+    - articles_controller
+    - stock_controller
+
+- Rails folders explanation: https://guides.rubyonrails.org/getting_started.html
